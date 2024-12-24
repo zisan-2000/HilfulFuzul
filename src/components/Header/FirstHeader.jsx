@@ -22,7 +22,9 @@ const FirstHeader = ({ sidebarOpen, setSidebarOpen }) => {
             alt="Kitab Ghor"
             className="h-16 w-auto rounded-full shadow-lg"
           />
-          <span className="ml-3 hidden text-2xl font-bold sm:block">বইঘর</span>
+          <span className="ml-3 hidden text-2xl font-bold sm:block">
+            হিলফুল-ফুযুল
+          </span>
         </Link>
       </div>
 
